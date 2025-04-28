@@ -1,0 +1,1001 @@
+Customer_ID,Product_ID,Category,Purchase_Amount,Purchase_Date,Payment_Method,Purchase_Month,Amount_Category
+4174,104,Electronics,261.05,2023-04-12,Cash On Delivery,4,Medium
+4507,132,Toys,222.9,2023-08-29,UPI,8,Medium
+1860,164,Groceries,77.99,2023-11-17,Cash On Delivery,11,Low
+2294,117,Toys,167.46,2023-07-10,Credit Card,7,Medium
+2130,195,Others,219.84,2023-08-05,Credit Card,8,Medium
+2095,148,Toys,48.86,2023-02-20,Cash On Delivery,2,Low
+4772,110,Clothing,114.2,2023-10-19,Credit Card,10,Medium
+4092,184,Books,301.12,2023-03-22,Cash On Delivery,3,High
+2638,125,Groceries,369.15,2023-03-29,Cash On Delivery,3,High
+3169,162,Books,499.18,2023-07-13,Net Banking,7,High
+1466,188,Toys,466.89,2023-04-14,Net Banking,4,High
+2238,185,Groceries,323.07,2023-09-28,Debit Card,9,High
+1330,158,Toys,213.52,2023-04-06,Credit Card,4,Medium
+2482,126,Clothing,319.91,2023-07-17,Cash On Delivery,7,High
+3135,148,Electronics,393.9,2023-01-01,Credit Card,1,High
+4444,176,Groceries,63.58,2023-06-16,UPI,6,Low
+4171,132,Clothing,207.9,2023-05-06,Credit Card,5,Medium
+3919,197,Clothing,420.7,2023-11-09,Credit Card,11,High
+4735,198,Groceries,195.0,2023-03-22,Net Banking,3,Medium
+1130,100,Toys,288.08,2023-09-08,Cash On Delivery,9,Medium
+2685,120,Clothing,295.95,2023-06-18,Credit Card,6,Medium
+4380,154,Books,96.32,2023-03-14,Net Banking,3,Low
+1769,105,Clothing,184.31,2023-05-21,Cash On Delivery,5,Medium
+3391,191,Toys,170.58,2023-03-11,Net Banking,3,Medium
+2515,180,Toys,17.97,2023-09-19,Net Banking,9,Low
+4485,168,Books,16.97,2023-12-06,Net Banking,12,Low
+3853,194,Clothing,416.69,2023-11-04,Credit Card,11,High
+3433,104,Toys,140.17,2023-09-02,Credit Card,9,Medium
+2215,102,Groceries,261.45,2023-01-03,Debit Card,1,Medium
+1955,152,Electronics,152.87,2023-12-03,UPI,12,Medium
+3324,122,Electronics,470.64,2023-03-04,UPI,3,High
+2184,152,Electronics,133.35,2023-02-18,UPI,2,Medium
+1459,136,Clothing,217.68,2023-03-17,Debit Card,3,Medium
+4385,173,Books,437.0,2023-06-24,Cash On Delivery,6,High
+1021,173,Toys,421.76,2023-04-19,UPI,4,High
+3300,182,Groceries,97.12,2023-07-02,Net Banking,7,Low
+1747,116,Groceries,402.31,2023-07-11,Credit Card,7,High
+3904,184,Clothing,231.8,2023-03-06,Credit Card,3,Medium
+4632,177,Electronics,244.07,2023-12-03,Net Banking,12,Medium
+1474,172,Clothing,71.07,2023-09-28,Net Banking,9,Low
+2082,100,Books,44.9,2023-04-10,Net Banking,4,Low
+3558,150,Books,365.33,2023-02-01,Credit Card,2,High
+4753,144,Toys,250.75,2023-12-18,UPI,12,Medium
+3047,176,Toys,221.24,2023-05-08,Net Banking,5,Medium
+4547,103,Books,366.11,2023-12-05,Debit Card,12,High
+3747,161,Books,383.93,2023-02-12,Net Banking,2,High
+1975,164,Books,83.66,2023-03-19,Cash On Delivery,3,Low
+2806,131,Clothing,307.06,2023-11-10,Net Banking,11,High
+1189,133,Books,72.0,2023-10-16,Credit Card,10,Low
+4005,191,Groceries,376.93,2023-09-27,Net Banking,9,High
+3734,194,Electronics,330.19,2023-06-11,Cash On Delivery,6,High
+4005,171,Books,478.52,2023-07-08,Debit Card,7,High
+1562,138,Electronics,39.13,2023-09-04,UPI,9,Low
+2899,125,Clothing,33.24,2023-08-04,Net Banking,8,Low
+4638,133,Electronics,144.68,2023-11-11,Cash On Delivery,11,Medium
+2267,153,Clothing,134.54,2023-12-05,Cash On Delivery,12,Medium
+3879,102,Groceries,127.25,2023-06-17,Debit Card,6,Medium
+2528,149,Clothing,453.6,2023-12-05,Credit Card,12,High
+4202,111,Clothing,128.53,2023-07-12,Net Banking,7,Medium
+4556,164,Others,139.62,2023-10-10,Cash On Delivery,10,Medium
+4890,153,Books,380.9,2023-12-02,Cash On Delivery,12,High
+1646,104,Books,227.62,2023-01-13,UPI,1,Medium
+3068,193,Groceries,389.47,2023-08-28,Cash On Delivery,8,High
+3888,193,Groceries,37.36,2023-11-16,Debit Card,11,Low
+3214,156,Books,246.35,2023-05-27,Credit Card,5,Medium
+2297,116,Toys,21.64,2023-07-23,Credit Card,7,Low
+3435,146,Books,36.01,2023-03-21,Cash On Delivery,3,Low
+1600,122,Toys,453.69,2023-02-12,Cash On Delivery,2,High
+3363,178,Groceries,73.93,2023-03-30,Net Banking,3,Low
+3061,184,Electronics,268.55,2023-05-28,Debit Card,5,Medium
+1241,113,Groceries,208.49,2023-04-05,Cash On Delivery,4,Medium
+3041,165,Groceries,176.93,2023-05-31,Net Banking,5,Medium
+3824,174,Clothing,450.42,2023-01-02,Net Banking,1,High
+4417,150,Clothing,15.8,2023-01-22,Cash On Delivery,1,Low
+3612,137,Clothing,333.58,2023-11-09,Credit Card,11,High
+3945,163,Clothing,481.88,2023-11-24,Debit Card,11,High
+2363,197,Others,282.28,2023-01-07,Debit Card,1,Medium
+3139,137,Books,468.73,2023-07-25,Credit Card,7,High
+2390,149,Electronics,30.87,2023-04-24,Cash On Delivery,4,Low
+4003,197,Groceries,212.3,2023-09-29,Debit Card,9,Medium
+2478,181,Toys,133.78,2023-03-24,Cash On Delivery,3,Medium
+4499,129,Electronics,366.76,2023-06-28,Cash On Delivery,6,High
+3556,178,Toys,490.74,2023-07-29,Net Banking,7,High
+1775,190,Toys,131.98,2023-11-24,Credit Card,11,Medium
+1034,150,Groceries,328.82,2023-05-04,Cash On Delivery,5,High
+3253,162,Books,103.06,2023-04-23,UPI,4,Medium
+4152,197,Clothing,284.84,2023-01-12,Credit Card,1,Medium
+2955,151,Books,234.65,2023-05-06,Debit Card,5,Medium
+2585,137,Groceries,486.14,2023-02-22,Net Banking,2,High
+4943,196,Groceries,306.22,2023-11-27,Debit Card,11,High
+4459,187,Others,178.01,2023-10-10,Debit Card,10,Medium
+4073,178,Electronics,61.48,2023-05-20,Credit Card,5,Low
+2021,129,Books,79.87,2023-04-07,Debit Card,4,Low
+4461,150,Books,116.53,2023-01-05,Cash On Delivery,1,Medium
+3613,180,Toys,129.23,2023-02-26,Debit Card,2,Medium
+2129,104,Toys,426.05,2023-11-30,Net Banking,11,High
+4843,128,Toys,282.81,2023-03-10,Net Banking,3,Medium
+4893,103,Groceries,264.08,2023-04-28,UPI,4,Medium
+2500,109,Books,61.81,2023-02-28,Net Banking,2,Low
+1702,155,Groceries,430.77,2023-02-02,Debit Card,2,High
+3449,116,Electronics,362.79,2023-11-14,Net Banking,11,High
+3777,173,Others,38.5,2023-02-19,Credit Card,2,Low
+2579,116,Groceries,355.38,2023-01-19,Net Banking,1,High
+1161,183,Groceries,274.05,2023-08-02,Cash On Delivery,8,Medium
+1201,187,Electronics,45.45,2023-07-16,Credit Card,7,Low
+2981,168,Clothing,231.86,2023-02-16,UPI,2,Medium
+1995,133,Books,244.92,2023-06-16,Cash On Delivery,6,Medium
+3317,105,Clothing,87.06,2023-10-16,Debit Card,10,Low
+4934,152,Toys,473.12,2023-05-21,Debit Card,5,High
+1815,165,Groceries,425.74,2023-03-25,Debit Card,3,High
+4342,176,Electronics,336.17,2023-07-01,Cash On Delivery,7,High
+1455,142,Electronics,233.84,2023-03-20,Cash On Delivery,3,Medium
+4533,174,Books,208.82,2023-08-03,Cash On Delivery,8,Medium
+4798,122,Clothing,327.23,2023-01-14,Credit Card,1,High
+2275,154,Books,274.99,2023-08-03,Credit Card,8,Medium
+2016,179,Groceries,35.83,2023-05-08,Debit Card,5,Low
+4773,194,Books,258.69,2023-11-06,Net Banking,11,Medium
+3343,174,Electronics,404.17,2023-09-05,Debit Card,9,High
+4796,115,Electronics,232.32,2023-01-29,UPI,1,Medium
+3767,107,Toys,30.72,2023-10-07,Credit Card,10,Low
+4820,103,Toys,394.21,2023-12-04,Cash On Delivery,12,High
+1337,103,Groceries,104.68,2023-11-15,Credit Card,11,Medium
+1878,155,Clothing,133.02,2023-07-21,Cash On Delivery,7,Medium
+2076,124,Books,86.53,2023-12-27,Cash On Delivery,12,Low
+1791,166,Groceries,168.46,2023-02-26,UPI,2,Medium
+4993,195,Toys,379.59,2023-08-06,Credit Card,8,High
+3264,166,Books,262.1,2023-03-03,Cash On Delivery,3,Medium
+1763,126,Toys,106.42,2023-06-06,UPI,6,Medium
+3235,192,Books,439.53,2023-07-21,Debit Card,7,High
+1379,131,Clothing,440.39,2023-01-17,Debit Card,1,High
+1492,149,Groceries,435.94,2023-11-18,Cash On Delivery,11,High
+4112,160,Books,123.2,2023-01-06,Credit Card,1,Medium
+2180,150,Electronics,228.36,2023-02-27,UPI,2,Medium
+3062,118,Electronics,492.57,2023-11-21,Credit Card,11,High
+4884,120,Books,387.15,2023-11-14,Debit Card,11,High
+1064,104,Books,18.45,2023-06-18,Cash On Delivery,6,Low
+4928,181,Books,37.28,2023-03-23,Credit Card,3,Low
+4910,191,Electronics,234.65,2023-08-07,Net Banking,8,Medium
+3568,141,Others,455.06,2023-06-26,Cash On Delivery,6,High
+2367,160,Books,271.66,2023-07-23,Cash On Delivery,7,Medium
+2152,121,Toys,251.42,2023-03-12,Net Banking,3,Medium
+3027,120,Toys,57.21,2023-09-23,Debit Card,9,Low
+3695,169,Clothing,330.11,2023-04-08,UPI,4,High
+2495,100,Groceries,411.94,2023-12-11,Cash On Delivery,12,High
+4134,104,Toys,193.31,2023-10-18,Net Banking,10,Medium
+2162,111,Electronics,388.93,2023-07-27,Net Banking,7,High
+2522,189,Toys,482.42,2023-01-02,Debit Card,1,High
+3640,145,Clothing,105.86,2023-05-04,Debit Card,5,Medium
+1391,133,Clothing,264.05,2023-10-07,Credit Card,10,Medium
+2698,148,Groceries,147.13,2023-03-15,Cash On Delivery,3,Medium
+1418,177,Toys,397.46,2023-06-15,Credit Card,6,High
+3336,189,Electronics,290.91,2023-01-22,Net Banking,1,Medium
+1378,144,Electronics,319.12,2023-06-03,UPI,6,High
+2796,126,Books,399.97,2023-10-22,UPI,10,High
+4561,172,Electronics,201.01,2023-08-07,Debit Card,8,Medium
+3278,125,Groceries,457.97,2023-06-06,UPI,6,High
+4065,146,Groceries,268.85,2023-08-18,UPI,8,Medium
+3088,185,Electronics,83.19,2023-01-20,UPI,1,Low
+4099,155,Electronics,349.47,2023-02-10,Net Banking,2,High
+3182,193,Others,397.66,2023-05-28,UPI,5,High
+1200,162,Electronics,161.8,2023-04-18,UPI,4,Medium
+2863,147,Books,429.3,2023-03-25,UPI,3,High
+1779,160,Books,453.54,2023-11-18,Credit Card,11,High
+3977,180,Electronics,142.07,2023-11-05,Net Banking,11,Medium
+4104,125,Clothing,491.84,2023-10-17,Debit Card,10,High
+4119,135,Clothing,74.65,2023-11-19,Credit Card,11,Low
+1502,100,Books,105.0,2023-05-14,Cash On Delivery,5,Medium
+3454,107,Electronics,96.19,2023-07-26,Net Banking,7,Low
+4645,198,Clothing,447.52,2023-10-10,Net Banking,10,High
+2751,151,Electronics,328.87,2023-09-23,Cash On Delivery,9,High
+1804,178,Electronics,80.29,2023-03-14,Cash On Delivery,3,Low
+3146,146,Electronics,222.96,2023-12-18,Cash On Delivery,12,Medium
+3731,155,Toys,309.57,2023-02-17,Debit Card,2,High
+2895,185,Electronics,46.31,2023-11-22,UPI,11,Low
+3773,113,Toys,441.8,2023-08-21,Net Banking,8,High
+2570,189,Books,402.78,2023-04-10,UPI,4,High
+1960,127,Clothing,255.08,2023-02-28,UPI,2,Medium
+4810,186,Clothing,483.73,2023-09-15,Cash On Delivery,9,High
+3660,177,Clothing,211.79,2023-03-06,Debit Card,3,Medium
+2485,187,Clothing,492.13,2023-03-24,Credit Card,3,High
+3690,101,Clothing,335.62,2023-06-03,Debit Card,6,High
+4840,125,Clothing,319.16,2023-09-23,UPI,9,High
+2028,113,Clothing,87.15,2023-11-05,Debit Card,11,Low
+4289,158,Books,441.55,2023-03-20,Cash On Delivery,3,High
+1502,155,Electronics,216.61,2023-11-11,Credit Card,11,Medium
+3814,106,Groceries,85.31,2023-05-30,Cash On Delivery,5,Low
+1397,102,Toys,11.24,2023-02-17,Credit Card,2,Low
+1870,122,Groceries,282.08,2023-09-05,UPI,9,Medium
+3842,117,Groceries,266.06,2023-10-05,Credit Card,10,Medium
+1392,137,Electronics,361.08,2023-12-22,Credit Card,12,High
+1206,198,Electronics,445.68,2023-04-08,Credit Card,4,High
+2038,114,Electronics,44.31,2023-01-25,Debit Card,1,Low
+2881,163,Clothing,367.09,2023-10-11,Debit Card,10,High
+4625,188,Books,97.77,2023-10-28,UPI,10,Low
+3939,127,Clothing,429.8,2023-03-09,Credit Card,3,High
+2484,173,Books,410.44,2023-01-07,Net Banking,1,High
+4762,138,Books,272.69,2023-11-01,UPI,11,Medium
+4646,156,Groceries,356.57,2023-05-17,Credit Card,5,High
+1863,116,Groceries,160.6,2023-06-13,Credit Card,6,Medium
+3790,185,Books,238.23,2023-03-24,Debit Card,3,Medium
+4312,189,Books,411.71,2023-05-18,UPI,5,High
+1563,143,Clothing,232.34,2023-03-14,Credit Card,3,Medium
+2020,124,Clothing,182.11,2023-08-25,Credit Card,8,Medium
+1095,116,Groceries,249.64,2023-02-15,UPI,2,Medium
+2923,112,Electronics,414.98,2023-04-16,Net Banking,4,High
+2757,183,Books,170.93,2023-10-15,UPI,10,Medium
+3532,124,Clothing,91.01,2023-09-19,UPI,9,Low
+4478,167,Groceries,357.45,2023-06-25,Net Banking,6,High
+3278,109,Clothing,413.86,2023-06-15,UPI,6,High
+3796,166,Books,54.82,2023-05-25,Credit Card,5,Low
+2678,117,Books,123.74,2023-11-26,UPI,11,Medium
+4242,199,Toys,75.28,2023-10-10,Net Banking,10,Low
+1540,185,Electronics,177.23,2023-02-23,Cash On Delivery,2,Medium
+2059,133,Toys,227.92,2023-06-27,UPI,6,Medium
+3572,107,Groceries,375.67,2023-09-01,Debit Card,9,High
+2183,139,Clothing,327.32,2023-12-07,Credit Card,12,High
+4910,182,Groceries,312.36,2023-05-07,Credit Card,5,High
+2722,141,Books,179.43,2023-09-28,Debit Card,9,Medium
+4314,140,Toys,421.52,2023-05-12,Debit Card,5,High
+4157,105,Toys,238.29,2023-04-03,UPI,4,Medium
+2819,151,Toys,489.66,2023-03-14,Debit Card,3,High
+3625,125,Groceries,318.9,2023-09-05,Cash On Delivery,9,High
+3729,163,Books,67.5,2023-12-14,Net Banking,12,Low
+3604,197,Clothing,339.71,2023-09-30,Debit Card,9,High
+2597,158,Clothing,165.93,2023-02-12,Debit Card,2,Medium
+4060,155,Groceries,344.73,2023-02-10,Cash On Delivery,2,High
+3693,158,Toys,39.47,2023-06-19,Credit Card,6,Low
+1795,169,Electronics,91.57,2023-07-31,Cash On Delivery,7,Low
+2051,132,Groceries,428.59,2023-06-17,UPI,6,High
+2643,152,Groceries,117.45,2023-02-08,Cash On Delivery,2,Medium
+4627,121,Books,419.34,2023-09-02,Net Banking,9,High
+2363,120,Clothing,143.24,2023-05-31,Net Banking,5,Medium
+4869,169,Groceries,323.23,2023-04-21,Cash On Delivery,4,High
+2981,169,Groceries,348.6,2023-02-16,Net Banking,2,High
+2354,103,Toys,258.76,2023-03-04,Credit Card,3,Medium
+2663,193,Toys,156.13,2023-08-13,Net Banking,8,Medium
+2529,174,Electronics,110.26,2023-03-10,Net Banking,3,Medium
+3038,161,Books,21.43,2023-10-26,Cash On Delivery,10,Low
+4419,161,Electronics,155.45,2023-10-17,Cash On Delivery,10,Medium
+2496,193,Toys,328.32,2023-10-23,Net Banking,10,High
+4302,194,Clothing,469.46,2023-07-22,Debit Card,7,High
+3237,123,Toys,436.25,2023-03-02,Cash On Delivery,3,High
+4296,154,Books,384.2,2023-11-14,UPI,11,High
+2408,108,Toys,395.28,2023-11-10,UPI,11,High
+2400,102,Books,334.17,2023-06-10,Credit Card,6,High
+2306,130,Books,133.84,2023-11-27,Net Banking,11,Medium
+3680,139,Books,454.06,2023-01-16,Debit Card,1,High
+3675,135,Books,337.01,2023-12-04,Credit Card,12,High
+1972,123,Books,282.42,2023-04-04,Net Banking,4,Medium
+2768,194,Others,59.94,2023-10-31,Cash On Delivery,10,Low
+2282,105,Electronics,226.29,2023-05-18,UPI,5,Medium
+4430,165,Groceries,232.88,2023-12-04,Debit Card,12,Medium
+1709,183,Electronics,432.96,2023-02-07,UPI,2,High
+2479,191,Books,275.59,2023-05-07,Cash On Delivery,5,Medium
+2434,174,Others,193.3,2023-10-02,Net Banking,10,Medium
+1648,103,Toys,488.52,2023-06-13,Cash On Delivery,6,High
+1317,178,Clothing,59.81,2023-11-15,Cash On Delivery,11,Low
+4748,105,Books,214.16,2023-03-18,UPI,3,Medium
+4296,193,Clothing,25.8,2023-06-23,Debit Card,6,Low
+4890,150,Clothing,371.25,2023-12-24,Cash On Delivery,12,High
+2257,161,Books,459.45,2023-11-17,UPI,11,High
+1683,156,Others,143.62,2023-04-01,Debit Card,4,Medium
+1663,165,Groceries,429.88,2023-08-26,Net Banking,8,High
+2998,178,Groceries,149.65,2023-09-21,Net Banking,9,Medium
+4898,174,Clothing,455.83,2023-06-28,Credit Card,6,High
+4445,107,Toys,378.21,2023-07-28,UPI,7,High
+4743,125,Books,403.43,2023-03-14,Debit Card,3,High
+2631,150,Groceries,13.91,2023-04-17,Cash On Delivery,4,Low
+2495,144,Toys,481.59,2023-12-11,Net Banking,12,High
+4304,143,Clothing,364.7,2023-10-22,Debit Card,10,High
+4763,104,Toys,155.85,2023-10-11,UPI,10,Medium
+2136,169,Electronics,415.55,2023-12-19,Credit Card,12,High
+2853,125,Groceries,144.35,2023-07-01,Net Banking,7,Medium
+2520,167,Clothing,437.01,2023-02-06,Debit Card,2,High
+3489,118,Books,60.73,2023-05-17,Debit Card,5,Low
+1563,183,Others,353.32,2023-12-04,Debit Card,12,High
+2291,196,Books,272.65,2023-02-25,UPI,2,Medium
+4581,119,Clothing,52.78,2023-07-06,UPI,7,Low
+4878,111,Toys,124.74,2023-12-07,UPI,12,Medium
+4457,146,Others,11.14,2023-09-15,Cash On Delivery,9,Low
+4458,100,Toys,237.04,2023-02-27,Debit Card,2,Medium
+4184,189,Electronics,154.13,2023-12-29,Net Banking,12,Medium
+2636,113,Books,301.19,2023-05-03,UPI,5,High
+4696,163,Toys,152.13,2023-07-07,UPI,7,Medium
+3999,137,Electronics,153.46,2023-08-18,Debit Card,8,Medium
+4152,136,Books,372.88,2023-06-17,UPI,6,High
+1698,110,Clothing,28.83,2023-04-24,Cash On Delivery,4,Low
+3160,199,Electronics,451.93,2023-09-09,Cash On Delivery,9,High
+1001,176,Groceries,426.87,2023-04-17,UPI,4,High
+1641,102,Others,335.56,2023-02-06,Cash On Delivery,2,High
+3267,132,Electronics,298.64,2023-12-01,Debit Card,12,Medium
+2589,105,Books,446.69,2023-04-02,Cash On Delivery,4,High
+1854,149,Clothing,96.74,2023-01-18,Credit Card,1,Low
+2759,109,Groceries,44.09,2023-12-20,UPI,12,Low
+4296,104,Toys,123.56,2023-03-04,Debit Card,3,Medium
+3432,122,Toys,398.32,2023-05-30,Cash On Delivery,5,High
+4474,109,Electronics,22.16,2023-05-19,Net Banking,5,Low
+2661,143,Books,293.49,2023-07-05,Cash On Delivery,7,Medium
+2153,101,Books,497.74,2023-07-04,Debit Card,7,High
+2076,112,Toys,428.57,2023-07-24,Net Banking,7,High
+2707,139,Groceries,263.12,2023-09-17,Net Banking,9,Medium
+3777,101,Clothing,36.5,2023-08-02,Credit Card,8,Low
+2695,183,Groceries,416.53,2023-09-13,Cash On Delivery,9,High
+2733,164,Others,301.49,2023-05-15,Cash On Delivery,5,High
+2439,162,Toys,61.89,2023-03-02,Credit Card,3,Low
+3294,172,Clothing,51.46,2023-12-29,Credit Card,12,Low
+1835,116,Books,455.27,2023-11-06,Net Banking,11,High
+4510,108,Electronics,336.25,2023-03-29,UPI,3,High
+1202,174,Electronics,415.5,2023-11-20,Net Banking,11,High
+4255,114,Toys,440.09,2023-07-26,Credit Card,7,High
+1122,123,Books,288.03,2023-05-09,Cash On Delivery,5,Medium
+1400,137,Groceries,261.14,2023-11-07,Net Banking,11,Medium
+1766,134,Books,218.06,2023-01-03,UPI,1,Medium
+1293,193,Electronics,161.89,2023-08-30,Net Banking,8,Medium
+3327,194,Electronics,220.13,2023-05-01,Debit Card,5,Medium
+4908,148,Books,388.07,2023-04-12,Net Banking,4,High
+3931,168,Books,302.95,2023-02-07,Credit Card,2,High
+4681,161,Electronics,446.8,2023-12-07,Cash On Delivery,12,High
+1197,159,Groceries,224.47,2023-05-13,Cash On Delivery,5,Medium
+4029,149,Toys,305.51,2023-07-21,Credit Card,7,High
+2930,177,Toys,317.5,2023-12-14,Debit Card,12,High
+4582,174,Books,297.89,2023-01-21,Credit Card,1,Medium
+3799,108,Toys,352.8,2023-08-30,Net Banking,8,High
+3191,133,Electronics,122.53,2023-04-19,Credit Card,4,Medium
+1608,175,Electronics,258.62,2023-10-30,Credit Card,10,Medium
+4272,198,Books,56.59,2023-03-25,Debit Card,3,Low
+2147,134,Books,195.33,2023-03-24,Net Banking,3,Medium
+1186,100,Books,246.4,2023-10-18,UPI,10,Medium
+4397,139,Groceries,327.85,2023-03-10,UPI,3,High
+3511,163,Toys,475.51,2023-05-09,Cash On Delivery,5,High
+4420,121,Books,302.32,2023-07-15,Credit Card,7,High
+2794,159,Clothing,373.08,2023-05-20,Cash On Delivery,5,High
+1659,163,Clothing,255.6,2023-10-10,Debit Card,10,Medium
+3811,192,Electronics,318.88,2023-11-08,UPI,11,High
+4002,171,Toys,40.11,2023-08-22,Credit Card,8,Low
+2955,110,Books,130.92,2023-01-23,Debit Card,1,Medium
+3450,113,Clothing,184.12,2023-06-02,Debit Card,6,Medium
+2369,159,Toys,238.88,2023-10-04,Credit Card,10,Medium
+2986,129,Electronics,27.6,2023-03-02,Debit Card,3,Low
+2534,134,Groceries,74.31,2023-11-15,Credit Card,11,Low
+1146,184,Toys,142.02,2023-02-21,Credit Card,2,Medium
+4219,136,Toys,485.91,2023-12-10,Net Banking,12,High
+3911,104,Groceries,169.02,2023-06-02,Cash On Delivery,6,Medium
+2734,182,Toys,243.61,2023-08-25,Debit Card,8,Medium
+2843,177,Electronics,102.07,2023-11-07,Debit Card,11,Medium
+1488,125,Others,307.34,2023-10-29,Net Banking,10,High
+3976,161,Groceries,143.94,2023-02-01,Net Banking,2,Medium
+2959,103,Books,107.46,2023-02-24,Net Banking,2,Medium
+2663,188,Clothing,260.7,2023-12-18,UPI,12,Medium
+3598,141,Books,7.73,2023-02-05,UPI,2,Low
+3385,188,Toys,8.79,2023-04-20,UPI,4,Low
+3919,117,Clothing,113.44,2023-06-26,Credit Card,6,Medium
+1640,139,Groceries,23.18,2023-12-28,Debit Card,12,Low
+2802,171,Groceries,58.47,2023-11-10,Cash On Delivery,11,Low
+3520,138,Clothing,172.74,2023-10-22,Credit Card,10,Medium
+2969,113,Electronics,402.28,2023-12-02,Debit Card,12,High
+3198,131,Clothing,288.16,2023-04-07,Debit Card,4,Medium
+2438,150,Toys,258.77,2023-08-01,Net Banking,8,Medium
+4369,137,Electronics,150.28,2023-11-13,Net Banking,11,Medium
+2634,196,Groceries,466.22,2023-05-17,Credit Card,5,High
+1262,122,Clothing,201.52,2023-01-06,Net Banking,1,Medium
+2787,162,Books,48.11,2023-04-19,Debit Card,4,Low
+3191,114,Books,310.45,2023-02-04,Net Banking,2,High
+3393,196,Toys,61.35,2023-02-08,UPI,2,Low
+1623,124,Others,175.89,2023-05-30,Net Banking,5,Medium
+2016,116,Clothing,256.17,2023-04-28,Debit Card,4,Medium
+4643,196,Clothing,437.74,2023-09-18,Credit Card,9,High
+1880,165,Books,249.31,2023-03-28,Cash On Delivery,3,Medium
+3049,177,Clothing,352.62,2023-03-17,Net Banking,3,High
+3944,152,Toys,496.44,2023-11-09,Cash On Delivery,11,High
+2327,150,Electronics,70.09,2023-08-02,Cash On Delivery,8,Low
+3301,138,Toys,140.99,2023-10-12,Cash On Delivery,10,Medium
+4723,150,Others,200.32,2023-08-27,UPI,8,Medium
+1452,169,Clothing,213.8,2023-06-14,Cash On Delivery,6,Medium
+4108,105,Electronics,208.46,2023-03-28,Debit Card,3,Medium
+2183,166,Clothing,454.27,2023-05-21,Debit Card,5,High
+4062,106,Groceries,358.45,2023-06-09,Net Banking,6,High
+3056,150,Clothing,305.91,2023-02-15,Net Banking,2,High
+4304,171,Clothing,158.14,2023-04-22,Net Banking,4,Medium
+4170,141,Clothing,412.78,2023-02-14,Cash On Delivery,2,High
+2682,163,Electronics,477.75,2023-09-04,Cash On Delivery,9,High
+3863,114,Clothing,411.49,2023-04-14,UPI,4,High
+3255,128,Electronics,5.77,2023-03-26,Net Banking,3,Low
+2154,132,Books,320.02,2023-05-14,Credit Card,5,High
+1403,193,Groceries,30.31,2023-04-18,UPI,4,Low
+3199,126,Electronics,132.52,2023-01-18,Cash On Delivery,1,Medium
+3101,135,Books,34.46,2023-04-04,Cash On Delivery,4,Low
+4191,128,Electronics,303.88,2023-05-30,UPI,5,High
+2696,137,Electronics,344.86,2023-09-03,UPI,9,High
+4991,156,Groceries,61.67,2023-10-16,Debit Card,10,Low
+1627,196,Toys,195.0,2023-07-28,Cash On Delivery,7,Medium
+1586,126,Toys,230.84,2023-05-06,Cash On Delivery,5,Medium
+2648,154,Electronics,187.68,2023-08-23,UPI,8,Medium
+2443,132,Clothing,64.91,2023-05-02,Cash On Delivery,5,Low
+2445,167,Books,212.38,2023-05-18,UPI,5,Medium
+1103,185,Clothing,376.83,2023-04-25,Debit Card,4,High
+4923,165,Others,40.15,2023-06-11,UPI,6,Low
+1253,109,Electronics,44.69,2023-07-20,Cash On Delivery,7,Low
+4298,104,Others,180.61,2023-08-22,Cash On Delivery,8,Medium
+4183,173,Electronics,471.15,2023-01-28,UPI,1,High
+3557,196,Electronics,335.94,2023-01-11,UPI,1,High
+2496,137,Toys,340.94,2023-07-25,UPI,7,High
+1098,112,Electronics,184.15,2023-06-16,Net Banking,6,Medium
+3200,130,Others,298.86,2023-09-04,Cash On Delivery,9,Medium
+2884,146,Toys,10.01,2023-02-16,Cash On Delivery,2,Low
+3961,199,Others,319.87,2023-09-03,Net Banking,9,High
+2919,187,Groceries,457.08,2023-05-07,UPI,5,High
+1877,151,Books,308.22,2023-05-27,Debit Card,5,High
+1337,155,Clothing,437.48,2023-04-28,UPI,4,High
+4777,114,Toys,363.37,2023-06-01,UPI,6,High
+3869,128,Books,64.68,2023-03-13,Net Banking,3,Low
+4234,107,Others,451.71,2023-12-29,Cash On Delivery,12,High
+4791,104,Clothing,37.89,2023-05-17,Cash On Delivery,5,Low
+1956,128,Clothing,269.31,2023-06-24,Cash On Delivery,6,Medium
+2704,146,Toys,75.36,2023-10-16,Credit Card,10,Low
+1160,167,Electronics,10.79,2023-01-19,Cash On Delivery,1,Low
+2603,175,Groceries,213.91,2023-07-14,Debit Card,7,Medium
+3848,144,Toys,151.05,2023-11-26,Debit Card,11,Medium
+1397,101,Groceries,245.57,2023-06-24,UPI,6,Medium
+2300,126,Electronics,290.71,2023-12-20,Cash On Delivery,12,Medium
+1815,194,Electronics,26.65,2023-05-21,UPI,5,Low
+4987,135,Toys,65.89,2023-09-03,Net Banking,9,Low
+2527,135,Electronics,281.53,2023-04-03,Debit Card,4,Medium
+2919,125,Books,174.87,2023-08-27,UPI,8,Medium
+2415,142,Clothing,365.94,2023-07-24,Net Banking,7,High
+2158,126,Toys,327.88,2023-02-17,UPI,2,High
+2218,168,Groceries,423.57,2023-09-02,Cash On Delivery,9,High
+1400,119,Books,347.78,2023-11-16,Cash On Delivery,11,High
+1639,110,Toys,217.82,2023-11-13,Cash On Delivery,11,Medium
+4104,173,Others,338.12,2023-10-22,Cash On Delivery,10,High
+3735,137,Electronics,141.31,2023-05-08,Credit Card,5,Medium
+1459,105,Electronics,156.63,2023-12-10,Net Banking,12,Medium
+1954,171,Others,395.55,2023-10-09,Net Banking,10,High
+4954,122,Groceries,225.98,2023-01-17,Cash On Delivery,1,Medium
+1469,146,Books,400.2,2023-03-12,Credit Card,3,High
+4446,189,Clothing,412.1,2023-09-26,Cash On Delivery,9,High
+2045,145,Groceries,429.49,2023-11-21,Credit Card,11,High
+3797,111,Groceries,458.73,2023-10-09,Cash On Delivery,10,High
+2693,189,Clothing,218.34,2023-11-01,Debit Card,11,Medium
+3085,112,Clothing,162.84,2023-01-07,Debit Card,1,Medium
+3277,161,Electronics,293.19,2023-11-10,UPI,11,Medium
+4436,181,Groceries,188.73,2023-11-01,Cash On Delivery,11,Medium
+1562,188,Toys,302.53,2023-04-13,Net Banking,4,High
+3485,196,Clothing,354.27,2023-11-05,UPI,11,High
+2799,159,Clothing,345.76,2023-07-12,Debit Card,7,High
+4354,142,Books,190.4,2023-08-29,Cash On Delivery,8,Medium
+3074,175,Toys,87.6,2023-03-03,UPI,3,Low
+1225,199,Toys,218.11,2023-01-17,Cash On Delivery,1,Medium
+4348,167,Clothing,75.58,2023-06-20,Debit Card,6,Low
+1797,104,Electronics,445.6,2023-01-25,UPI,1,High
+4680,136,Books,176.21,2023-09-08,Debit Card,9,Medium
+3331,171,Toys,81.46,2023-09-10,Credit Card,9,Low
+3926,191,Clothing,17.6,2023-07-26,Debit Card,7,Low
+1959,130,Others,324.68,2023-01-29,Cash On Delivery,1,High
+2504,108,Books,320.27,2023-04-27,Net Banking,4,High
+1452,150,Books,173.6,2023-10-09,Debit Card,10,Medium
+4067,128,Groceries,40.5,2023-05-24,Net Banking,5,Low
+4900,177,Clothing,207.77,2023-01-25,Credit Card,1,Medium
+1815,139,Books,159.05,2023-11-06,UPI,11,Medium
+1658,140,Groceries,340.17,2023-06-05,UPI,6,High
+4587,185,Groceries,304.86,2023-03-14,Net Banking,3,High
+1546,110,Toys,185.47,2023-04-30,UPI,4,Medium
+2215,122,Toys,112.86,2023-11-08,Debit Card,11,Medium
+4120,100,Groceries,494.08,2023-11-17,Net Banking,11,High
+4583,145,Others,229.73,2023-04-03,Cash On Delivery,4,Medium
+1016,120,Books,345.7,2023-03-27,Debit Card,3,High
+4243,189,Electronics,74.57,2023-12-02,Debit Card,12,Low
+2243,135,Books,245.37,2023-12-30,Debit Card,12,Medium
+3205,153,Groceries,18.63,2023-04-28,Cash On Delivery,4,Low
+3524,186,Groceries,255.2,2023-08-21,Cash On Delivery,8,Medium
+2069,156,Books,482.19,2023-07-18,UPI,7,High
+4444,100,Toys,195.18,2023-07-25,Net Banking,7,Medium
+3565,162,Toys,24.3,2023-12-05,Credit Card,12,Low
+3146,153,Groceries,20.32,2023-05-27,Net Banking,5,Low
+4963,154,Clothing,197.05,2023-09-28,UPI,9,Medium
+2768,139,Toys,84.21,2023-05-19,Cash On Delivery,5,Low
+2060,114,Books,16.56,2023-06-30,Debit Card,6,Low
+3327,120,Toys,379.33,2023-01-30,Debit Card,1,High
+4420,146,Books,231.97,2023-02-26,Cash On Delivery,2,Medium
+3544,172,Groceries,148.18,2023-08-20,Credit Card,8,Medium
+1301,152,Toys,450.54,2023-05-26,Credit Card,5,High
+1180,108,Books,62.49,2023-02-17,Net Banking,2,Low
+1606,173,Groceries,478.18,2023-07-13,Cash On Delivery,7,High
+4170,151,Clothing,160.41,2023-08-12,Credit Card,8,Medium
+1699,156,Books,444.76,2023-05-16,Cash On Delivery,5,High
+1992,125,Clothing,303.46,2023-01-22,UPI,1,High
+2139,140,Clothing,414.22,2023-01-06,Debit Card,1,High
+1190,134,Electronics,492.09,2023-07-23,Debit Card,7,High
+3300,162,Toys,147.76,2023-08-27,Debit Card,8,Medium
+1980,124,Books,480.76,2023-07-04,Cash On Delivery,7,High
+3975,189,Clothing,197.79,2023-12-26,Cash On Delivery,12,Medium
+3006,174,Electronics,195.83,2023-10-19,Net Banking,10,Medium
+2184,137,Groceries,173.49,2023-12-01,Debit Card,12,Medium
+4327,101,Books,273.0,2023-08-08,Net Banking,8,Medium
+4394,106,Clothing,81.3,2023-04-26,Cash On Delivery,4,Low
+1127,181,Toys,279.09,2023-11-09,Net Banking,11,Medium
+3065,190,Electronics,273.14,2023-02-18,Net Banking,2,Medium
+2816,133,Clothing,382.14,2023-06-22,UPI,6,High
+2758,190,Toys,417.66,2023-03-23,Net Banking,3,High
+3613,116,Clothing,223.02,2023-11-18,Cash On Delivery,11,Medium
+1569,142,Books,154.65,2023-11-29,Net Banking,11,Medium
+2346,158,Books,133.37,2023-02-14,Debit Card,2,Medium
+2895,150,Books,101.34,2023-12-01,Net Banking,12,Medium
+3733,153,Electronics,33.54,2023-01-20,Credit Card,1,Low
+4863,123,Books,174.51,2023-08-09,Debit Card,8,Medium
+1625,124,Toys,138.77,2023-05-03,Credit Card,5,Medium
+4359,170,Clothing,483.38,2023-08-22,Debit Card,8,High
+3901,151,Groceries,281.07,2023-08-09,Cash On Delivery,8,Medium
+2686,169,Toys,176.9,2023-11-19,Cash On Delivery,11,Medium
+4009,187,Toys,292.33,2023-12-05,Cash On Delivery,12,Medium
+4710,132,Books,73.9,2023-01-03,Credit Card,1,Low
+1154,148,Electronics,224.8,2023-07-01,UPI,7,Medium
+3537,128,Clothing,314.99,2023-07-25,Debit Card,7,High
+2409,162,Electronics,247.0,2023-11-16,Cash On Delivery,11,Medium
+1784,121,Clothing,203.88,2023-02-09,Debit Card,2,Medium
+4175,125,Clothing,496.95,2023-02-28,Credit Card,2,High
+4464,127,Electronics,440.76,2023-03-03,UPI,3,High
+4882,184,Toys,313.59,2023-05-12,Credit Card,5,High
+1245,148,Clothing,286.84,2023-03-01,Debit Card,3,Medium
+4247,170,Electronics,312.23,2023-11-27,UPI,11,High
+4110,180,Clothing,104.65,2023-05-02,UPI,5,Medium
+2500,183,Groceries,200.59,2023-04-17,Credit Card,4,Medium
+2705,148,Toys,24.53,2023-04-06,Cash On Delivery,4,Low
+3806,119,Books,240.4,2023-12-13,Debit Card,12,Medium
+1537,185,Clothing,273.8,2023-08-23,Cash On Delivery,8,Medium
+2890,191,Groceries,117.74,2023-03-03,Net Banking,3,Medium
+2841,162,Books,482.19,2023-09-13,Credit Card,9,High
+1920,160,Books,455.18,2023-02-18,Debit Card,2,High
+3455,148,Clothing,362.46,2023-12-14,Debit Card,12,High
+1524,170,Electronics,269.03,2023-06-08,Credit Card,6,Medium
+3875,100,Clothing,435.63,2023-05-04,Debit Card,5,High
+2529,195,Groceries,69.67,2023-11-13,Cash On Delivery,11,Low
+3950,112,Books,396.3,2023-07-26,Credit Card,7,High
+4896,193,Clothing,66.79,2023-02-17,Cash On Delivery,2,Low
+1035,186,Electronics,398.13,2023-05-16,Debit Card,5,High
+1684,150,Clothing,141.5,2023-07-20,Credit Card,7,Medium
+1019,155,Toys,439.16,2023-09-07,Debit Card,9,High
+3368,182,Electronics,472.3,2023-11-10,Credit Card,11,High
+4847,161,Groceries,78.65,2023-12-23,Debit Card,12,Low
+3559,131,Books,234.02,2023-11-14,Cash On Delivery,11,Medium
+1399,129,Others,490.59,2023-10-22,Cash On Delivery,10,High
+3701,128,Electronics,244.29,2023-11-10,Debit Card,11,Medium
+1971,148,Toys,432.46,2023-07-28,Credit Card,7,High
+2906,144,Electronics,296.42,2023-12-21,Net Banking,12,Medium
+3518,192,Toys,190.79,2023-07-30,Cash On Delivery,7,Medium
+2166,129,Groceries,146.46,2023-07-11,Cash On Delivery,7,Medium
+2115,115,Books,105.6,2023-02-13,Net Banking,2,Medium
+4425,139,Groceries,382.09,2023-01-29,Debit Card,1,High
+1833,118,Clothing,196.34,2023-02-28,Credit Card,2,Medium
+2823,117,Electronics,258.08,2023-03-12,Debit Card,3,Medium
+3774,100,Toys,248.7,2023-04-02,UPI,4,Medium
+2982,177,Others,290.75,2023-09-22,Cash On Delivery,9,Medium
+1853,146,Electronics,433.46,2023-08-08,UPI,8,High
+1050,165,Electronics,490.47,2023-08-03,Cash On Delivery,8,High
+4736,191,Clothing,206.75,2023-10-04,Cash On Delivery,10,Medium
+4769,193,Groceries,414.62,2023-03-05,UPI,3,High
+1574,137,Others,383.44,2023-12-12,UPI,12,High
+4261,150,Clothing,288.9,2023-10-19,Debit Card,10,Medium
+2148,162,Groceries,478.24,2023-09-02,UPI,9,High
+3197,103,Clothing,104.23,2023-03-03,Debit Card,3,Medium
+3361,100,Toys,59.09,2023-11-28,Debit Card,11,Low
+3617,107,Electronics,427.71,2023-06-19,Debit Card,6,High
+4413,128,Electronics,222.38,2023-09-26,Cash On Delivery,9,Medium
+3352,154,Groceries,424.25,2023-09-24,Cash On Delivery,9,High
+2715,102,Books,447.08,2023-02-23,UPI,2,High
+1681,131,Groceries,35.92,2023-01-16,Cash On Delivery,1,Low
+1837,109,Others,442.32,2023-01-08,UPI,1,High
+4854,173,Clothing,226.92,2023-04-14,Cash On Delivery,4,Medium
+2077,182,Clothing,257.66,2023-02-28,Credit Card,2,Medium
+4050,133,Toys,315.16,2023-11-09,Credit Card,11,High
+3491,196,Books,463.56,2023-02-09,UPI,2,High
+3660,186,Toys,14.46,2023-08-25,Cash On Delivery,8,Low
+4040,154,Electronics,241.04,2023-04-04,Cash On Delivery,4,Medium
+3311,191,Books,345.42,2023-08-10,Debit Card,8,High
+4124,131,Groceries,362.74,2023-07-23,Net Banking,7,High
+2595,149,Electronics,347.8,2023-05-18,UPI,5,High
+4051,106,Electronics,71.55,2023-10-27,Net Banking,10,Low
+4691,192,Groceries,153.2,2023-07-26,Net Banking,7,Medium
+1004,107,Electronics,182.56,2023-12-02,UPI,12,Medium
+2126,164,Books,403.2,2023-03-22,Cash On Delivery,3,High
+2219,156,Toys,142.99,2023-08-06,UPI,8,Medium
+1773,166,Electronics,109.3,2023-01-02,Net Banking,1,Medium
+1876,187,Books,478.94,2023-06-27,Cash On Delivery,6,High
+1991,186,Clothing,9.39,2023-12-12,Credit Card,12,Low
+3931,158,Books,498.92,2023-10-06,UPI,10,High
+4421,171,Toys,340.03,2023-05-26,UPI,5,High
+1046,153,Books,415.09,2023-11-14,Cash On Delivery,11,High
+3914,166,Groceries,150.84,2023-08-12,Credit Card,8,Medium
+3870,150,Toys,12.09,2023-03-03,Credit Card,3,Low
+3983,196,Clothing,370.25,2023-10-21,Cash On Delivery,10,High
+4891,191,Groceries,417.9,2023-08-27,Cash On Delivery,8,High
+3703,107,Books,371.54,2023-07-14,UPI,7,High
+1268,133,Toys,75.71,2023-06-15,UPI,6,Low
+1369,134,Clothing,377.95,2023-08-10,Net Banking,8,High
+1635,195,Groceries,385.62,2023-03-02,Cash On Delivery,3,High
+2129,187,Clothing,330.98,2023-05-09,Net Banking,5,High
+2693,177,Books,384.23,2023-06-22,Net Banking,6,High
+2682,131,Clothing,423.73,2023-06-05,Credit Card,6,High
+1656,145,Electronics,308.73,2023-04-20,UPI,4,High
+1119,115,Groceries,48.86,2023-09-26,Net Banking,9,Low
+1830,167,Clothing,246.38,2023-12-22,Credit Card,12,Medium
+2810,136,Books,43.44,2023-10-05,Cash On Delivery,10,Low
+4675,153,Books,206.73,2023-03-15,Cash On Delivery,3,Medium
+2081,184,Clothing,206.52,2023-07-26,UPI,7,Medium
+2974,113,Books,37.67,2023-10-06,Net Banking,10,Low
+2369,194,Toys,177.67,2023-11-22,Cash On Delivery,11,Medium
+1740,154,Toys,59.94,2023-12-06,Net Banking,12,Low
+4545,147,Toys,405.08,2023-12-23,UPI,12,High
+1116,181,Electronics,474.11,2023-12-06,Credit Card,12,High
+2853,106,Clothing,40.8,2023-07-23,UPI,7,Low
+3838,173,Electronics,477.78,2023-06-10,Credit Card,6,High
+2150,106,Books,263.68,2023-01-28,Debit Card,1,Medium
+4464,132,Electronics,153.29,2023-09-14,Cash On Delivery,9,Medium
+2931,122,Books,43.05,2023-06-14,UPI,6,Low
+2012,184,Books,252.81,2023-03-04,Cash On Delivery,3,Medium
+2664,118,Groceries,398.29,2023-01-22,Net Banking,1,High
+2081,118,Toys,355.01,2023-03-11,Credit Card,3,High
+1633,135,Books,29.86,2023-04-06,Credit Card,4,Low
+1512,128,Groceries,41.09,2023-06-12,Cash On Delivery,6,Low
+4822,159,Toys,204.42,2023-03-20,Cash On Delivery,3,Medium
+3849,181,Books,151.17,2023-01-05,Net Banking,1,Medium
+2119,101,Books,120.03,2023-11-12,Net Banking,11,Medium
+4709,100,Electronics,144.1,2023-04-30,Cash On Delivery,4,Medium
+2141,146,Electronics,402.72,2023-10-29,Debit Card,10,High
+1559,168,Toys,464.97,2023-06-27,Net Banking,6,High
+4672,119,Books,205.53,2023-06-25,Cash On Delivery,6,Medium
+1487,110,Clothing,453.52,2023-08-05,Net Banking,8,High
+4308,101,Electronics,164.14,2023-02-25,Credit Card,2,Medium
+4956,166,Toys,240.84,2023-07-06,Debit Card,7,Medium
+1896,186,Books,116.88,2023-08-20,UPI,8,Medium
+4343,111,Books,322.04,2023-09-12,Credit Card,9,High
+2212,119,Clothing,489.6,2023-04-14,Credit Card,4,High
+1703,104,Others,303.73,2023-03-18,Debit Card,3,High
+2470,136,Books,182.12,2023-08-18,UPI,8,Medium
+1580,137,Electronics,325.67,2023-09-15,Cash On Delivery,9,High
+3837,193,Clothing,65.85,2023-09-21,UPI,9,Low
+3908,108,Others,444.89,2023-11-27,Net Banking,11,High
+3294,197,Clothing,254.03,2023-07-01,Credit Card,7,Medium
+4147,152,Electronics,227.43,2023-09-13,Net Banking,9,Medium
+1153,143,Toys,295.0,2023-02-07,Cash On Delivery,2,Medium
+2679,198,Clothing,314.27,2023-06-25,Net Banking,6,High
+4506,185,Groceries,40.53,2023-01-27,UPI,1,Low
+1996,123,Electronics,342.9,2023-10-03,Cash On Delivery,10,High
+4157,180,Electronics,124.76,2023-05-20,Cash On Delivery,5,Medium
+3744,173,Electronics,358.41,2023-10-26,Cash On Delivery,10,High
+4356,129,Groceries,412.15,2023-10-14,Cash On Delivery,10,High
+2243,158,Groceries,402.96,2023-04-01,UPI,4,High
+2092,186,Others,278.49,2023-03-02,Cash On Delivery,3,Medium
+4118,195,Clothing,262.48,2023-12-31,Credit Card,12,Medium
+2008,180,Books,75.72,2023-12-13,Cash On Delivery,12,Low
+3141,180,Clothing,388.8,2023-06-12,Cash On Delivery,6,High
+2773,113,Groceries,139.35,2023-12-17,Net Banking,12,Medium
+1957,108,Groceries,250.86,2023-05-23,Net Banking,5,Medium
+4059,139,Books,145.72,2023-09-10,UPI,9,Medium
+1452,165,Toys,71.25,2023-09-26,Net Banking,9,Low
+2227,124,Books,316.63,2023-10-18,Cash On Delivery,10,High
+3959,172,Clothing,31.89,2023-07-06,UPI,7,Low
+3265,121,Books,375.58,2023-10-31,Cash On Delivery,10,High
+3521,103,Electronics,162.21,2023-10-18,Credit Card,10,Medium
+3479,125,Clothing,5.07,2023-03-27,Cash On Delivery,3,Low
+3388,157,Clothing,258.01,2023-06-15,Cash On Delivery,6,Medium
+1550,128,Toys,28.19,2023-04-24,UPI,4,Low
+2635,197,Groceries,141.7,2023-12-22,UPI,12,Medium
+2312,186,Clothing,354.95,2023-07-02,Cash On Delivery,7,High
+4325,136,Groceries,36.03,2023-07-26,Net Banking,7,Low
+2757,174,Books,420.47,2023-09-13,Cash On Delivery,9,High
+1356,169,Electronics,6.89,2023-08-23,Debit Card,8,Low
+3070,117,Toys,127.18,2023-12-21,Debit Card,12,Medium
+2785,184,Groceries,371.75,2023-01-03,Net Banking,1,High
+3569,141,Clothing,161.55,2023-07-27,Debit Card,7,Medium
+2781,199,Groceries,55.44,2023-07-16,Net Banking,7,Low
+4908,140,Clothing,183.32,2023-12-07,Cash On Delivery,12,Medium
+4171,137,Groceries,138.84,2023-05-05,Cash On Delivery,5,Medium
+3849,133,Clothing,422.14,2023-05-18,Credit Card,5,High
+4251,116,Others,160.11,2023-12-05,Cash On Delivery,12,Medium
+4294,136,Clothing,395.52,2023-01-25,Net Banking,1,High
+4977,124,Clothing,446.48,2023-03-09,Net Banking,3,High
+3809,175,Electronics,219.74,2023-03-02,Cash On Delivery,3,Medium
+4730,186,Clothing,455.42,2023-01-29,Net Banking,1,High
+3489,185,Electronics,191.77,2023-01-19,Debit Card,1,Medium
+2631,184,Others,482.22,2023-06-20,Debit Card,6,High
+3816,126,Electronics,49.2,2023-03-15,Net Banking,3,Low
+2015,156,Books,345.07,2023-03-02,Net Banking,3,High
+2348,130,Electronics,249.44,2023-06-02,Debit Card,6,Medium
+1515,105,Toys,196.89,2023-10-03,Net Banking,10,Medium
+4087,190,Books,318.19,2023-02-17,Net Banking,2,High
+3839,139,Groceries,353.41,2023-07-30,Cash On Delivery,7,High
+1335,197,Groceries,7.16,2023-12-09,Credit Card,12,Low
+2782,111,Electronics,87.64,2023-05-19,Debit Card,5,Low
+3305,152,Electronics,357.96,2023-04-20,Cash On Delivery,4,High
+1496,170,Toys,334.86,2023-07-02,Credit Card,7,High
+1895,109,Toys,483.19,2023-01-28,Net Banking,1,High
+3207,144,Clothing,381.71,2023-07-16,Net Banking,7,High
+4546,116,Toys,475.63,2023-07-10,Cash On Delivery,7,High
+1851,125,Clothing,352.76,2023-11-11,Net Banking,11,High
+2687,184,Books,152.54,2023-02-20,UPI,2,Medium
+2931,191,Electronics,57.16,2023-05-29,Cash On Delivery,5,Low
+3737,161,Books,392.0,2023-09-25,Credit Card,9,High
+4746,145,Toys,323.85,2023-02-19,Cash On Delivery,2,High
+3427,163,Books,28.85,2023-09-03,Debit Card,9,Low
+2568,101,Books,183.22,2023-04-23,Cash On Delivery,4,Medium
+1956,153,Books,478.62,2023-06-19,Net Banking,6,High
+3738,164,Toys,252.7,2023-06-15,Net Banking,6,Medium
+4498,150,Others,219.2,2023-01-14,UPI,1,Medium
+2636,152,Clothing,231.56,2023-07-22,UPI,7,Medium
+2291,135,Toys,108.4,2023-10-15,UPI,10,Medium
+4906,125,Books,187.51,2023-07-08,Credit Card,7,Medium
+4648,128,Toys,188.06,2023-06-04,UPI,6,Medium
+2440,120,Groceries,30.92,2023-02-24,Cash On Delivery,2,Low
+2191,110,Clothing,384.95,2023-07-01,UPI,7,High
+4913,139,Books,211.17,2023-07-29,Credit Card,7,Medium
+2066,110,Groceries,411.98,2023-03-16,Cash On Delivery,3,High
+4627,135,Groceries,425.92,2023-10-04,Cash On Delivery,10,High
+1284,158,Toys,109.94,2023-05-13,Net Banking,5,Medium
+3444,138,Groceries,330.39,2023-12-09,Credit Card,12,High
+1011,198,Clothing,238.78,2023-02-28,Debit Card,2,Medium
+2630,153,Clothing,440.68,2023-12-11,Net Banking,12,High
+4373,197,Electronics,111.79,2023-07-01,Cash On Delivery,7,Medium
+4969,154,Others,340.52,2023-12-05,Credit Card,12,High
+4324,123,Groceries,305.84,2023-11-17,Cash On Delivery,11,High
+3546,121,Clothing,151.17,2023-03-05,Debit Card,3,Medium
+1753,168,Toys,72.62,2023-11-23,Cash On Delivery,11,Low
+3082,155,Electronics,327.56,2023-09-17,Net Banking,9,High
+3774,132,Groceries,370.61,2023-07-12,Credit Card,7,High
+3896,135,Electronics,161.24,2023-05-23,Debit Card,5,Medium
+1089,119,Groceries,324.19,2023-04-14,Credit Card,4,High
+1775,182,Toys,200.59,2023-08-02,UPI,8,Medium
+3652,198,Electronics,358.04,2023-08-30,Net Banking,8,High
+4993,180,Books,103.61,2023-07-28,Credit Card,7,Medium
+4017,161,Groceries,445.66,2023-04-03,Cash On Delivery,4,High
+2625,197,Books,147.27,2023-05-22,Net Banking,5,Medium
+4069,172,Electronics,187.05,2023-04-22,Cash On Delivery,4,Medium
+1417,125,Books,33.76,2023-02-28,Credit Card,2,Low
+1114,165,Books,60.2,2023-02-12,Net Banking,2,Low
+1616,172,Electronics,260.35,2023-07-26,Cash On Delivery,7,Medium
+4974,172,Toys,137.46,2023-09-25,UPI,9,Medium
+4267,139,Books,418.56,2023-10-23,UPI,10,High
+1825,116,Books,12.27,2023-04-28,Credit Card,4,Low
+4572,100,Toys,192.65,2023-01-20,Net Banking,1,Medium
+2649,188,Books,171.99,2023-08-10,Debit Card,8,Medium
+2516,160,Books,14.57,2023-06-15,Net Banking,6,Low
+4146,142,Books,66.56,2023-05-11,UPI,5,Low
+1412,141,Clothing,209.75,2023-06-05,Cash On Delivery,6,Medium
+4447,124,Toys,248.97,2023-07-03,Debit Card,7,Medium
+4491,138,Books,205.12,2023-03-31,Credit Card,3,Medium
+1728,134,Toys,267.81,2023-04-04,Debit Card,4,Medium
+4348,102,Groceries,299.59,2023-01-13,Credit Card,1,Medium
+4068,143,Groceries,9.91,2023-11-18,Debit Card,11,Low
+3808,150,Books,234.73,2023-10-20,Credit Card,10,Medium
+1675,193,Toys,481.93,2023-08-18,Credit Card,8,High
+4465,197,Toys,261.92,2023-11-18,Debit Card,11,Medium
+2892,111,Toys,340.38,2023-10-19,Debit Card,10,High
+3504,118,Clothing,159.37,2023-01-26,Credit Card,1,Medium
+3967,143,Groceries,388.13,2023-03-16,UPI,3,High
+3239,158,Others,387.6,2023-12-30,Debit Card,12,High
+3786,148,Toys,263.04,2023-10-26,Net Banking,10,Medium
+4760,160,Others,488.13,2023-05-30,Cash On Delivery,5,High
+2122,116,Clothing,67.15,2023-05-28,Credit Card,5,Low
+2571,173,Toys,13.39,2023-01-08,Credit Card,1,Low
+1977,156,Electronics,386.23,2023-01-29,Cash On Delivery,1,High
+2008,154,Toys,404.54,2023-10-23,UPI,10,High
+3143,146,Toys,64.5,2023-07-28,Cash On Delivery,7,Low
+2687,111,Clothing,136.46,2023-05-08,Debit Card,5,Medium
+3710,161,Clothing,13.69,2023-12-06,Cash On Delivery,12,Low
+4261,179,Toys,150.19,2023-04-26,Credit Card,4,Medium
+4807,187,Toys,387.71,2023-05-24,Cash On Delivery,5,High
+1036,182,Toys,261.39,2023-11-14,Net Banking,11,Medium
+4851,107,Clothing,177.31,2023-08-23,Debit Card,8,Medium
+4440,194,Toys,189.01,2023-01-07,Cash On Delivery,1,Medium
+4766,120,Toys,5.67,2023-02-14,Credit Card,2,Low
+2548,180,Books,153.4,2023-08-27,Cash On Delivery,8,Medium
+3326,186,Electronics,325.0,2023-06-04,Credit Card,6,High
+3264,179,Groceries,487.23,2023-06-30,UPI,6,High
+3914,169,Electronics,424.3,2023-08-03,Net Banking,8,High
+1872,171,Books,16.68,2023-03-29,UPI,3,Low
+2821,124,Groceries,449.79,2023-09-13,Net Banking,9,High
+2296,181,Toys,392.68,2023-03-14,Cash On Delivery,3,High
+4952,188,Books,391.29,2023-06-28,Debit Card,6,High
+3109,111,Toys,231.71,2023-07-31,Cash On Delivery,7,Medium
+1595,114,Clothing,202.01,2023-10-20,Net Banking,10,Medium
+2903,158,Books,154.94,2023-08-22,Net Banking,8,Medium
+1728,125,Others,37.52,2023-08-27,Cash On Delivery,8,Low
+2365,125,Books,117.98,2023-08-11,Credit Card,8,Medium
+1396,146,Books,127.07,2023-04-29,Debit Card,4,Medium
+1698,131,Clothing,244.62,2023-11-09,Cash On Delivery,11,Medium
+4090,109,Groceries,374.98,2023-09-21,Cash On Delivery,9,High
+3224,115,Electronics,239.54,2023-07-26,UPI,7,Medium
+2635,170,Toys,33.63,2023-04-05,Net Banking,4,Low
+1395,116,Books,479.11,2023-08-10,Net Banking,8,High
+3492,122,Toys,471.65,2023-10-03,Net Banking,10,High
+4304,125,Clothing,393.67,2023-08-19,Cash On Delivery,8,High
+4986,184,Toys,495.71,2023-11-05,UPI,11,High
+1075,185,Clothing,274.52,2023-04-29,Credit Card,4,Medium
+1264,106,Toys,481.57,2023-09-25,Debit Card,9,High
+3502,113,Electronics,42.42,2023-09-30,Credit Card,9,Low
+2819,178,Electronics,186.01,2023-03-05,Cash On Delivery,3,Medium
+1717,106,Electronics,116.56,2023-10-25,Net Banking,10,Medium
+3782,108,Electronics,101.94,2023-12-16,Debit Card,12,Medium
+4455,147,Electronics,74.7,2023-01-11,Cash On Delivery,1,Low
+4635,171,Electronics,313.09,2023-04-08,Cash On Delivery,4,High
+1850,158,Clothing,391.75,2023-03-12,Cash On Delivery,3,High
+4577,186,Books,291.26,2023-12-30,Debit Card,12,Medium
+2390,192,Toys,77.75,2023-02-27,Debit Card,2,Low
+1143,181,Electronics,406.51,2023-10-17,UPI,10,High
+1884,194,Clothing,319.8,2023-09-08,UPI,9,High
+4140,193,Clothing,197.14,2023-10-03,Credit Card,10,Medium
+4170,138,Clothing,338.69,2023-02-19,Debit Card,2,High
+1395,198,Books,133.65,2023-12-24,Debit Card,12,Medium
+4096,117,Toys,175.87,2023-08-04,Debit Card,8,Medium
+3995,158,Books,459.16,2023-02-21,UPI,2,High
+3938,116,Groceries,148.8,2023-09-28,Cash On Delivery,9,Medium
+2492,113,Clothing,237.64,2023-03-25,Net Banking,3,Medium
+4555,130,Groceries,445.62,2023-10-20,UPI,10,High
+4636,123,Electronics,355.32,2023-05-06,Cash On Delivery,5,High
+4222,198,Electronics,35.79,2023-10-23,UPI,10,Low
+2167,159,Books,77.92,2023-03-13,Cash On Delivery,3,Low
+3616,144,Toys,8.88,2023-10-23,Debit Card,10,Low
+2062,197,Groceries,317.31,2023-08-24,Credit Card,8,High
+3156,102,Toys,226.6,2023-02-25,Debit Card,2,Medium
+4764,136,Books,71.47,2023-12-26,UPI,12,Low
+2065,142,Electronics,479.18,2023-04-20,Cash On Delivery,4,High
+2209,139,Toys,267.18,2023-07-11,Net Banking,7,Medium
+3982,189,Toys,124.74,2023-04-03,Credit Card,4,Medium
+3445,154,Electronics,252.8,2023-12-16,UPI,12,Medium
+4294,186,Groceries,341.41,2023-02-25,Cash On Delivery,2,High
+1633,138,Electronics,42.74,2023-03-01,UPI,3,Low
+2156,114,Toys,140.98,2023-05-18,Credit Card,5,Medium
+4234,103,Others,404.45,2023-02-08,Net Banking,2,High
+2238,192,Groceries,232.53,2023-01-28,UPI,1,Medium
+1732,185,Electronics,275.56,2023-02-18,Debit Card,2,Medium
+1234,124,Toys,219.24,2023-05-05,Cash On Delivery,5,Medium
+4914,112,Books,26.73,2023-01-13,UPI,1,Low
+3705,181,Toys,87.05,2023-02-05,Cash On Delivery,2,Low
+1750,132,Clothing,225.54,2023-04-11,Debit Card,4,Medium
+3635,115,Books,108.55,2023-10-09,Net Banking,10,Medium
+4080,141,Groceries,29.74,2023-03-27,Net Banking,3,Low
+4145,165,Books,422.61,2023-01-04,Debit Card,1,High
+1953,154,Groceries,490.69,2023-08-11,Cash On Delivery,8,High
+3539,198,Groceries,397.61,2023-12-04,UPI,12,High
+3960,141,Books,427.62,2023-06-15,Debit Card,6,High
+4324,133,Groceries,124.78,2023-12-10,Credit Card,12,Medium
+4301,129,Groceries,480.51,2023-10-05,Cash On Delivery,10,High
+2542,112,Clothing,102.48,2023-05-10,Net Banking,5,Medium
+2197,112,Toys,475.96,2023-01-31,Debit Card,1,High
+2676,117,Toys,497.44,2023-01-11,Net Banking,1,High
+2191,131,Clothing,357.3,2023-10-29,Cash On Delivery,10,High
+3217,195,Books,490.67,2023-04-06,Net Banking,4,High
+2416,198,Electronics,286.92,2023-07-09,Debit Card,7,Medium
+3993,138,Electronics,133.47,2023-07-11,Cash On Delivery,7,Medium
+3842,145,Others,221.31,2023-09-23,Credit Card,9,Medium
+3681,128,Clothing,298.81,2023-05-08,Debit Card,5,Medium
+2217,161,Clothing,41.18,2023-08-26,UPI,8,Low
+2540,192,Groceries,313.06,2023-12-21,Debit Card,12,High
+3076,161,Electronics,490.68,2023-04-22,Cash On Delivery,4,High
+4236,156,Books,99.1,2023-11-12,Debit Card,11,Low
+2445,115,Books,397.33,2023-12-09,Credit Card,12,High
+3386,155,Electronics,454.41,2023-05-25,Credit Card,5,High
+4719,109,Electronics,472.13,2023-03-06,UPI,3,High
+2519,129,Electronics,480.27,2023-09-04,Net Banking,9,High
+2388,124,Clothing,263.12,2023-08-11,Cash On Delivery,8,Medium
+2856,183,Clothing,488.77,2023-11-09,Cash On Delivery,11,High
+2365,104,Clothing,379.87,2023-04-16,Net Banking,4,High
+1499,164,Toys,85.03,2023-06-30,Credit Card,6,Low
+2680,193,Books,241.07,2023-07-03,Credit Card,7,Medium
+1510,148,Others,360.57,2023-08-14,Debit Card,8,High
+4398,102,Groceries,127.43,2023-09-22,UPI,9,Medium
+1216,144,Clothing,322.1,2023-10-05,UPI,10,High
+2324,113,Toys,334.97,2023-03-30,UPI,3,High
+2155,129,Toys,85.54,2023-06-25,Debit Card,6,Low
+2827,167,Books,284.72,2023-01-18,UPI,1,Medium
+4141,117,Clothing,386.96,2023-04-16,Net Banking,4,High
+4323,161,Groceries,251.95,2023-09-28,Debit Card,9,Medium
+4486,136,Clothing,10.99,2023-11-15,Cash On Delivery,11,Low
+2810,124,Electronics,9.47,2023-06-16,Debit Card,6,Low
+3492,147,Clothing,181.73,2023-01-13,UPI,1,Medium
+3923,164,Electronics,463.47,2023-12-03,Net Banking,12,High
+2205,152,Electronics,118.2,2023-02-01,Net Banking,2,Medium
+3214,178,Groceries,319.01,2023-02-09,Net Banking,2,High
+1090,172,Books,114.93,2023-05-28,Debit Card,5,Medium
+1713,114,Clothing,164.23,2023-08-06,Cash On Delivery,8,Medium
+2881,148,Electronics,424.78,2023-08-07,UPI,8,High
+4602,187,Clothing,365.79,2023-03-23,Net Banking,3,High
+1038,167,Books,52.22,2023-11-29,Cash On Delivery,11,Low
+4197,111,Books,217.21,2023-07-27,UPI,7,Medium
+4522,158,Toys,19.44,2023-07-20,UPI,7,Low
+1172,136,Books,243.04,2023-11-28,Net Banking,11,Medium
+1652,160,Groceries,332.9,2023-02-07,Cash On Delivery,2,High
+1753,142,Electronics,63.66,2023-07-30,Debit Card,7,Low
+2243,169,Toys,148.0,2023-11-23,Cash On Delivery,11,Medium
+4709,138,Groceries,201.93,2023-09-06,Cash On Delivery,9,Medium
+2081,155,Clothing,460.17,2023-08-15,Net Banking,8,High
+2683,162,Electronics,496.66,2023-02-17,UPI,2,High
+3523,145,Books,27.23,2023-01-18,Net Banking,1,Low
+1455,187,Electronics,381.7,2023-10-22,UPI,10,High
+1828,110,Clothing,189.0,2023-07-15,Cash On Delivery,7,Medium
+1894,161,Toys,199.27,2023-07-06,Net Banking,7,Medium
+2384,176,Toys,378.36,2023-12-11,Credit Card,12,High
+2958,197,Toys,459.62,2023-08-12,Cash On Delivery,8,High
+4072,124,Books,475.71,2023-11-14,UPI,11,High
+3434,170,Groceries,290.68,2023-12-31,UPI,12,Medium
+2996,151,Groceries,181.77,2023-12-03,Credit Card,12,Medium
+3395,103,Electronics,394.84,2023-08-17,Debit Card,8,High
+1189,158,Books,129.25,2023-03-18,Credit Card,3,Medium
+1504,171,Toys,284.22,2023-07-07,Credit Card,7,Medium
+2214,119,Toys,182.5,2023-12-12,UPI,12,Medium
+2531,192,Clothing,330.03,2023-09-27,Cash On Delivery,9,High
+4440,162,Clothing,124.0,2023-04-05,Credit Card,4,Medium
+4480,153,Toys,99.84,2023-11-06,Debit Card,11,Low
+1823,173,Toys,459.53,2023-05-12,Net Banking,5,High
+1928,197,Books,55.39,2023-02-08,Credit Card,2,Low
+1933,156,Groceries,255.45,2023-03-13,Credit Card,3,Medium
+2140,189,Clothing,114.32,2023-10-08,Debit Card,10,Medium
+1133,140,Groceries,24.27,2023-11-29,Cash On Delivery,11,Low
+3105,102,Books,22.83,2023-06-09,Credit Card,6,Low
+4627,105,Toys,91.73,2023-07-06,Credit Card,7,Low
+1684,104,Groceries,434.05,2023-07-10,Cash On Delivery,7,High
+3719,104,Toys,144.83,2023-04-30,Debit Card,4,Medium
+3220,153,Toys,475.48,2023-08-08,Credit Card,8,High
+2852,146,Electronics,292.9,2023-02-22,Cash On Delivery,2,Medium
+1814,186,Groceries,221.12,2023-08-10,Credit Card,8,Medium
+2172,148,Groceries,292.14,2023-05-11,Net Banking,5,Medium
+1079,108,Toys,260.77,2023-08-25,UPI,8,Medium
+3933,198,Books,380.59,2023-09-03,Net Banking,9,High
+4284,119,Others,144.84,2023-08-14,Credit Card,8,Medium
+1202,160,Toys,179.76,2023-07-27,Debit Card,7,Medium
+3811,134,Clothing,447.58,2023-04-06,UPI,4,High
+2252,149,Clothing,473.5,2023-07-19,Net Banking,7,High
+2699,181,Electronics,446.82,2023-09-04,Cash On Delivery,9,High
+2250,161,Books,212.63,2023-03-13,Cash On Delivery,3,Medium
+2682,116,Toys,391.28,2023-11-14,Net Banking,11,High
+2555,187,Groceries,240.79,2023-07-04,Cash On Delivery,7,Medium
+4512,102,Others,251.28,2023-01-06,Credit Card,1,Medium
+4473,131,Books,106.32,2023-07-25,Cash On Delivery,7,Medium
+3094,198,Groceries,297.61,2023-02-01,Net Banking,2,Medium
+2256,112,Clothing,97.14,2023-04-09,Net Banking,4,Low
+4376,188,Clothing,169.12,2023-09-13,Credit Card,9,Medium
+2549,172,Groceries,428.24,2023-07-06,Cash On Delivery,7,High
+2166,167,Electronics,107.5,2023-03-17,Cash On Delivery,3,Medium
+4486,113,Clothing,40.22,2023-06-26,Credit Card,6,Low
+4584,197,Toys,39.16,2023-11-11,Cash On Delivery,11,Low
+2396,110,Groceries,470.69,2023-10-14,Credit Card,10,High
+4637,155,Others,255.93,2023-12-15,Debit Card,12,Medium
+4957,166,Others,207.66,2023-09-12,Net Banking,9,Medium
+4330,191,Electronics,406.38,2023-11-21,Debit Card,11,High
+3703,128,Toys,418.73,2023-07-09,UPI,7,High
+1470,108,Electronics,169.43,2023-11-04,UPI,11,Medium
+4018,166,Books,348.34,2023-12-11,UPI,12,High
+2035,124,Books,386.71,2023-05-07,Credit Card,5,High
+2353,197,Clothing,329.05,2023-10-14,Cash On Delivery,10,High
+3783,175,Clothing,80.04,2023-09-11,Debit Card,9,Low
+3831,141,Clothing,438.56,2023-08-01,Debit Card,8,High
+1967,108,Books,271.85,2023-09-07,Debit Card,9,Medium
+1357,178,Electronics,144.82,2023-03-25,Debit Card,3,Medium
+4019,139,Electronics,215.49,2023-01-13,UPI,1,Medium
+4479,124,Clothing,23.6,2023-02-14,Cash On Delivery,2,Low
+1667,104,Toys,68.29,2023-05-07,Cash On Delivery,5,Low
+1372,110,Electronics,383.95,2023-04-24,UPI,4,High
+2031,158,Books,5.01,2023-10-03,Debit Card,10,Low
+2145,197,Groceries,211.2,2023-07-24,Credit Card,7,Medium
+2371,187,Others,263.64,2023-12-03,Net Banking,12,Medium
+3723,178,Groceries,32.04,2023-09-30,Net Banking,9,Low
+1089,137,Toys,486.67,2023-02-27,Net Banking,2,High
+4719,171,Clothing,116.93,2023-11-24,UPI,11,Medium
+3745,104,Books,155.58,2023-08-07,Debit Card,8,Medium
+4387,147,Toys,155.45,2023-04-19,UPI,4,Medium
+4249,189,Books,119.06,2023-10-06,Cash On Delivery,10,Medium
+1539,117,Books,5.73,2023-06-23,Cash On Delivery,6,Low
+3779,169,Clothing,366.03,2023-11-24,Credit Card,11,High
+1868,136,Groceries,483.59,2023-09-21,Net Banking,9,High
+1040,159,Clothing,116.03,2023-11-11,Net Banking,11,Medium
+1739,147,Toys,333.21,2023-04-21,Net Banking,4,High
+4775,176,Toys,372.24,2023-07-06,Debit Card,7,High
+2946,127,Toys,424.97,2023-09-26,Cash On Delivery,9,High
+3549,168,Clothing,214.2,2023-08-17,Cash On Delivery,8,Medium
+4006,176,Books,154.95,2023-06-05,Cash On Delivery,6,Medium
+4216,180,Books,166.02,2023-07-08,Cash On Delivery,7,Medium
+2224,139,Electronics,357.75,2023-09-29,Cash On Delivery,9,High
+1928,144,Toys,409.31,2023-01-02,Credit Card,1,High
+3036,195,Books,94.9,2023-09-03,Net Banking,9,Low
+4795,161,Electronics,188.62,2023-07-29,Cash On Delivery,7,Medium
+3508,192,Books,451.46,2023-10-13,Net Banking,10,High
+3779,157,Toys,404.31,2023-12-25,Cash On Delivery,12,High
+3799,166,Groceries,492.5,2023-01-13,UPI,1,High
+1924,155,Toys,378.35,2023-04-06,Credit Card,4,High
+3956,139,Clothing,199.63,2023-08-09,UPI,8,Medium
+2581,197,Books,297.37,2023-08-26,Debit Card,8,Medium
+4618,139,Books,332.2,2023-04-04,Net Banking,4,High
+4324,190,Clothing,43.84,2023-12-04,Debit Card,12,Low
+1389,176,Clothing,274.53,2023-09-26,Net Banking,9,Medium
+2617,132,Groceries,356.11,2023-06-20,UPI,6,High
+3930,105,Books,87.82,2023-04-04,Cash On Delivery,4,Low
+1255,187,Books,391.41,2023-05-29,Cash On Delivery,5,High
+1708,118,Groceries,293.97,2023-04-22,Net Banking,4,Medium
+2838,179,Electronics,476.35,2023-02-24,Cash On Delivery,2,High
+2944,139,Others,26.0,2023-12-03,UPI,12,Low
+3497,191,Others,136.34,2023-04-26,Cash On Delivery,4,Medium
+1009,196,Books,302.77,2023-05-23,UPI,5,High
+3871,158,Clothing,151.8,2023-07-20,Debit Card,7,Medium
+1797,158,Toys,358.64,2023-06-29,UPI,6,High
+4313,147,Books,380.71,2023-07-21,Credit Card,7,High
